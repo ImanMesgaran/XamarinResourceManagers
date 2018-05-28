@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinResourceManagers", "XamarinResourceManagers\XamarinResourceManagers.csproj", "{8ED405E4-D2AB-441F-89F9-111347003751}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinResourceManagers.Core", "XamarinResourceManagers.Core\XamarinResourceManagers.Core.csproj", "{2AF3468B-D12F-4F6C-BE35-9657E66258FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8ED405E4-D2AB-441F-89F9-111347003751}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED405E4-D2AB-441F-89F9-111347003751}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED405E4-D2AB-441F-89F9-111347003751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF3468B-D12F-4F6C-BE35-9657E66258FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF3468B-D12F-4F6C-BE35-9657E66258FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF3468B-D12F-4F6C-BE35-9657E66258FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF3468B-D12F-4F6C-BE35-9657E66258FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
